@@ -1,0 +1,13 @@
+body {
+    width: 650px;
+    margin: 40px auto;
+    font-size: 18px;
+  line-height: 1.5;
+  color:#444444;
+}
+span{
+   font-family: monospace;
+}
+.quote{
+    margin: 18px 40px;
+}
