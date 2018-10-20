@@ -11,3 +11,12 @@ span{
 .quote{
     margin: 18px 40px;
 }
+button{ 
+    display: flex;
+    padding: 10px 20px;
+    background: #444444;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin: 5px auto;
+}
